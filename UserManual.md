@@ -1,5 +1,7 @@
 # SDEV140 - FINAL PROJECT
 
+Hi there, welcome to My Exchange Rate App :)
+
 ### Libraries you will need:
 * tkinter (usually comes with your Python already) but you will need to import it;
 * requests: `pip install requests`
